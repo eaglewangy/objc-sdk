@@ -6,7 +6,7 @@
 //  Copyright (c) 2014年 Qiniu. All rights reserved.
 //
 
-#import <IFBase/IFBase.h>
+#import "IFBase.h"
 #import "QNConfiguration.h"
 #import "QNSessionManager.h"
 #import "QNUserAgent.h"
