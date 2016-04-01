@@ -6,7 +6,7 @@
 //  Copyright (c) 2014年 Qiniu. All rights reserved.
 //
 
-#import "IFBase.h"
+#import <AFNetworking/AFHTTPSessionManager.h>
 #import "QNConfiguration.h"
 #import "QNSessionManager.h"
 #import "QNUserAgent.h"
